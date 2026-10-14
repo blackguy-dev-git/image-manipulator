@@ -57,9 +57,9 @@ def flip():
 inp = input("enter what function u want to perfome on image")
 if inp == "gray":
     conver_gray()
-elif inp == "bright"():
+elif inp == "bright":
     brightness()
-elif inp == "inverse"():
+elif inp == "inverse":
     inversion()
-elif inp == "flip"():
+elif inp == "flip":
     flip()   
